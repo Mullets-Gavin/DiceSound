@@ -5,7 +5,7 @@
 
 --[[
 [DOCUMENTATION]:
-	https://github.com/Mullets-Gavin/--
+	https://github.com/Mullets-Gavin/DiceSound
 	Listed below is a quick glance on the API, visit the link above for proper documentation
 
 [SOUND API]:
