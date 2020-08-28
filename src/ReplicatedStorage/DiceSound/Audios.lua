@@ -10,13 +10,13 @@ return {
 	-- APM MUSIC --
 	---------------
 	-- Ambient music
-	['APM_Music1'] = {['SoundId'] = 'rbxassetid://1843873938', ['Volume'] = 0.1, ['PlaybackSpeed'] = 1};
-	['APM_Music2'] = {['SoundId'] = 'rbxassetid://1839403801', ['Volume'] = 0.1, ['PlaybackSpeed'] = 1};
-	['APM_Music3'] = {['SoundId'] = 'rbxassetid://1835684140', ['Volume'] = 0.1, ['PlaybackSpeed'] = 1};
-	['APM_Music4'] = {['SoundId'] = 'rbxassetid://1838982562', ['Volume'] = 0.1, ['PlaybackSpeed'] = 1};
-	['APM_Music5'] = {['SoundId'] = 'rbxassetid://1837779942', ['Volume'] = 0.1, ['PlaybackSpeed'] = 1};
-	['APM_Music6'] = {['SoundId'] = 'rbxassetid://1837779943', ['Volume'] = 0.1, ['PlaybackSpeed'] = 1};
-	['APM_Music7'] = {['SoundId'] = 'rbxassetid://1835588878', ['Volume'] = 0.1, ['PlaybackSpeed'] = 1};
+	['APM_Music1'] = {['SoundId'] = 'rbxassetid://1843873938', ['Volume'] = 0.0, ['PlaybackSpeed'] = 1};
+	['APM_Music2'] = {['SoundId'] = 'rbxassetid://1839403801', ['Volume'] = 0.0, ['PlaybackSpeed'] = 1};
+	['APM_Music3'] = {['SoundId'] = 'rbxassetid://1835684140', ['Volume'] = 0.0, ['PlaybackSpeed'] = 1};
+	['APM_Music4'] = {['SoundId'] = 'rbxassetid://1838982562', ['Volume'] = 0.0, ['PlaybackSpeed'] = 1};
+	['APM_Music5'] = {['SoundId'] = 'rbxassetid://1837779942', ['Volume'] = 0.0, ['PlaybackSpeed'] = 1};
+	['APM_Music6'] = {['SoundId'] = 'rbxassetid://1837779943', ['Volume'] = 0.0, ['PlaybackSpeed'] = 1};
+	['APM_Music7'] = {['SoundId'] = 'rbxassetid://1835588878', ['Volume'] = 0.0, ['PlaybackSpeed'] = 1};
 	
 	----------------------
 	-- MULLET MAFIA DEV --
